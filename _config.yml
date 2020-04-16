@@ -71,6 +71,9 @@ default_badges:
   github: false
   binder: false
   colab: false
+  
+# This specifies link form for posts
+permalink: /:slug
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
