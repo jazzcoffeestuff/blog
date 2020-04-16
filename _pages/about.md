@@ -23,7 +23,7 @@ My current coffee set ups are:
 **Espresso:** <br/>
 * Compak e8 red speed grinder (Orphan Espresso Pharos for decaf) <br/>
 * The Force flat base tamper <br/>
-* Londinium R
+* Londinium R / Cafelat Robot
 
 Water is treated with an Osmio Zero countertop RO unit.
 
