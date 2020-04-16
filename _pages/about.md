@@ -14,8 +14,7 @@ The specialty coffee business is a difficult one to navigate, I do not feel righ
 
 I have no affiliations or monetary interests in any coffee business nor am I paid to review or feature coffees – this is merely a passion project.
 
-My current coffee set ups are: 
-
+My current coffee set ups are: <br/>
 **Filter:** <br/>
 * Orphan Espresso Apex Hand Grinder <br/>
 * Hasami Brewer with Chemex papers / Aeropress
@@ -31,5 +30,5 @@ I have been an avid jazz fan for a long time and listen to pretty much every typ
 
 In blog posts I try and include album artwork where appropriate – this is done using a fair use law for the purposes of identification.
 
-If you would like to get in contact please feel free to do so via twitter (@jazzcoffeestuff) or via this blogs email address:
+If you would like to get in contact please feel free to do so via twitter ([@jazzcoffeestuff](https://twitter.com/jazzcoffeestuff)) or via this blogs email address:
 ![email](https://github.com/jazzcoffeestuff/blog/raw/master/images/email.jpg)
