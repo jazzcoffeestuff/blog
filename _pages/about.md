@@ -6,6 +6,8 @@ permalink: /Welcome/
 
 Hello, and welcome to my new blog: **jazzcoffeestuff**. 
 
+![](https://github.com/jazzcoffeestuff/blog/raw/master/images/Espresso-small.jpg)
+
 As the name suggests this blog is about two of my favourite topics: jazz and coffee (and other “stuff”!) 
 
 The specialty coffee business is a difficult one to navigate, I do not feel right in slating any roaster/producer. Coffee choice is personal and just because I do not bond with a coffee doesn’t mean it is “bad”. As such this blog will only feature positive coffee reviews, I do not write about every coffee I drink - only the particularly good ones! 
