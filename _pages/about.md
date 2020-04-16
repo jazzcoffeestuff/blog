@@ -4,7 +4,7 @@ title: Welcome
 permalink: /Welcome/
 ---
 
-Hello, and welcome to my new blog: **jazzcoffeestuff**. 
+Hello, and welcome to my new blog: **JazzCoffeeStuff**. 
 
 ![](https://github.com/jazzcoffeestuff/blog/raw/master/images/Espresso-small.jpg)
 
@@ -14,7 +14,8 @@ The specialty coffee business is a difficult one to navigate, I do not feel righ
 
 I have no affiliations or monetary interests in any coffee business nor am I paid to review or feature coffees – this is merely a passion project.
 
-My current coffee set ups are: <br/>
+My current coffee set ups are: 
+
 **Filter:** <br/>
 * Orphan Espresso Apex Hand Grinder <br/>
 * Hasami Brewer with Chemex papers / Aeropress
