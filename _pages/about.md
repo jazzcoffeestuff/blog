@@ -14,18 +14,6 @@ The specialty coffee business is a difficult one to navigate, I do not feel righ
 
 I have no affiliations or monetary interests in any coffee business nor am I paid to review or feature coffees – this is merely a passion project.
 
-My current coffee set ups are: <br/>
-**Filter:** <br/>
-* Orphan Espresso Apex Hand Grinder <br/>
-* Hasami Brewer with Chemex papers / Aeropress
-
-**Espresso:** <br/>
-* Compak e8 red speed grinder (Orphan Espresso Pharos for decaf) <br/>
-* The Force flat base tamper <br/>
-* Londinium R / Cafelat Robot
-
-Water is treated with an Osmio Zero countertop RO unit.
-
 I have been an avid jazz fan for a long time and listen to pretty much every type of jazz from the earliest swing through to the latest releases. I want to make jazz more accessible so I will shy away from highly technical analyses (although those are interesting too) – hopefully making it fun and providing an easy introduction to the genre.
 
 In blog posts I try and include album artwork where appropriate – this is done using a fair use law for the purposes of identification.
